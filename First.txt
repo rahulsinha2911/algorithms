@@ -1,0 +1,4 @@
+potato 20 2
+tomato 15 15
+adrak 10 910
+hell -1 -1

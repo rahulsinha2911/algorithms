@@ -10,6 +10,7 @@
 
 void main()
 {
+    // new changes by @shivam
     int sock;      // client socket discriptor
     int n,c,i;
     unsigned int len;
